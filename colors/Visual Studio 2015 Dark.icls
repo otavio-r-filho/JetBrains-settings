@@ -1,6 +1,6 @@
 <scheme name="Visual Studio 2015 Dark" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
@@ -155,6 +155,7 @@
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="93c763" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
